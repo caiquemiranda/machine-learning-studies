@@ -1,1 +1,1 @@
-# machine-learning-studies
+# studies-machine-learning-python
